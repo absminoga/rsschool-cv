@@ -78,3 +78,34 @@ Zeplin
 
 **Дополнительные развитые профессиональные навыки:**
 Обучения и получения сертификата МОЗ Украины по предоставлению неотложной домедицинской помощи.
+
+## **4. Пример кода:**
+
+	<main>
+		<section class="section_one">
+			<div class="container">
+				<div class="wrapper">
+					<div class="section_title reatures_title">
+						<div class="section_title_top">
+							переваги
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+	</main>
+	<footer class="footer">
+		<div class="container">
+			<div class="footer_top footer_text">
+				<p>Made with love by <a href="https://www.linkedin.com/in/alexander-kuzmenko-83033677/?trk=public-profile-join-page" target="_blank">Alex Kuzmenko</a></p>
+				<p>Ispired by <a href="https://prometheus.org.ua/" target="_blank">PROMETHEUS</a></p>
+			</div>
+			<div class="footer_bottom footer_social">
+				<a href="https://twitter.com" target="_blank">
+				<div class="twitter social_icon"></div></a><a href="https://facebook.com" target="_blank">
+				<div class="facebook social_icon"></div></a><a href="https://plus.google.com/" target="_blank">
+				<div class="google_plus social_icon"></div></a>
+			</div>
+		</div>
+	</footer>
