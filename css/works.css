@@ -53,6 +53,8 @@
 }
 .front{
   background-color: #8a7170aa;
+   -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
   /* background-image: linear-gradient(transparent 50%, rgba(255,255,255,.5) 50%);
   background-size: 60px 50px; */
 }
