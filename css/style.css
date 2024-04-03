@@ -333,6 +333,9 @@ header .logo:hover {
   .section_one .experience table tr td:last-child {
     line-height: 1.2; }
 
+.section_one .skills .skills_row {
+  margin-top: 10px; }
+
 .section_one .skills .skills_row h5 {
   font-size: calc(16px + 0.4vmin);
   margin-bottom: 10px; }
