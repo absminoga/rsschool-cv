@@ -17,7 +17,7 @@
        -ms-flex-align: center;
            align-items: center;
    width: 45%;
-   min-width: 290px;
+   min-width: 270px;
    height: calc(200px + 4vw);
    border: 10px solid transparent;
    z-index: 1;
